@@ -63,7 +63,7 @@ pre-existing code.
 
 ## Why not list every copyright holder?
 
-There are several reasons why CDF doesn't require or recommend trying to list
+There are several reasons why R Consortium doesn't require or recommend trying to list
 every copyright holder for contributions to every file:
 
 - Copyright notices are not mandatory in order for the contributor to retain
