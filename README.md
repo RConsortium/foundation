@@ -4,10 +4,10 @@ This repo contains several documents and links related to the operation of the [
 
 ## Governance
 
-* The [charter](https://github.com/RConsortium/charter) under which R Consortium operates
+* The [Bylaws](https://github.com/RConsortium/charter/blob/master/R-Consortium-Bylaws-1157174-v2-Approved-11.20.19.pdf) under which R Consortium operates
 * Foundation operations support and [service desk](https://github.com/RConsoritum/foundation/issues) 
-* The [membership](https://github.com/RConsortium/charter/tbd) agreement
-* The ISC [Code of Conduct](https://github.com/RConsortium/isc/tbd) 
+* The [membership](https://github.com/RConsortium/charter/blob/master/R-Consortium-Membership-Agreement-1157181-v2-Approved-11.20.19.pdf) agreement
+* The ISC [Code of Conduct](https://github.com/RConsortium/isc/blob/master/CODE_OF_CONDUCT.md) 
 
 ## Project Guidance
 
